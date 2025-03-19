@@ -1,3 +1,4 @@
+/*
 public class Car extends Vehicle {
     private String fabric;
 
@@ -18,3 +19,5 @@ public class Car extends Vehicle {
         System.out.println("Doors Locked, Car Secure");
     }
 }
+
+*/
