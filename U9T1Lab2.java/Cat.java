@@ -1,4 +1,4 @@
-public class Cat extends Animal {
+/* public class Cat extends Animal {
     
     private boolean hasPlayedWith;
 
@@ -11,3 +11,4 @@ public class Cat extends Animal {
 
     public void play() {System.out.println("Cat has been played with");}
 }
+    */

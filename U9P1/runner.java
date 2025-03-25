@@ -1,3 +1,4 @@
+/*
 public class runner {
     public static void main(String[] args) {
         Firetruck firetruck1 = new Firetruck("Truck1", 8, false, 0);
@@ -18,3 +19,4 @@ public class runner {
         System.err.println(firetruck1.getLadderLength());
     }
 }
+    */

@@ -1,3 +1,4 @@
+/*
 public class Firetruck extends Vehicle{
     
     private boolean siren = false;
@@ -20,3 +21,4 @@ public class Firetruck extends Vehicle{
 
     public boolean getSiren() {return siren;}
 }
+    */

@@ -1,3 +1,4 @@
+/*
 public class Bicycle extends Vehicle{
 
     private int gears;
@@ -14,3 +15,4 @@ public class Bicycle extends Vehicle{
     public int getGearCount() {return gears;}
     
 }
+*/

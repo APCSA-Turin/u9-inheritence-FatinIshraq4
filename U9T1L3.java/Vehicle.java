@@ -30,4 +30,14 @@ public class Vehicle {
     }
 
     public void setTollFee(double num) {tollFee=num;}
+
+    public void printInfo() {
+      System.out.println("License Plate: " + getLicensePlate());
+        System.out.println("Toll fee: " + getTollFee());
+        System.out.println("Passengers: " + getPassengers());
+    }
+
+    public void stopForPassenger() {
+      System.out.println("This vehicle does not stop for passengers");
+    }
   }

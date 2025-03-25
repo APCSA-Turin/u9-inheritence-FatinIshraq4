@@ -1,3 +1,4 @@
+/*
 public class Animal {
 
     private String name;
@@ -16,3 +17,4 @@ public class Animal {
     public void feed() {System.out.println("Animal has been fed");}
 
 }
+*/
